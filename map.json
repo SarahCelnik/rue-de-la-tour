@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map2.json"
+                 "value":"secret_room.json"
                 }],
          "type":"tilelayer",
          "visible":true,
